@@ -1,7 +1,7 @@
-# loffe_robbery
-GTA:O style shop robbery for FiveM
+# Market-robbery
+Bu script FiveM içindir. 
 
-## Requirements
-ESX server with policejob etc
+## Üzerinde yaptıklarım
+Marketlerdeki NPC'leri soyuyorsunuz. Bazı buglarını düzelttim ve kordinatlar ayarlandı.
 
-[Video](https://www.youtube.com/watch?v=l926BP_HdS8)
+[Discord](https://discord.gg/gFzqvDNKA8)
