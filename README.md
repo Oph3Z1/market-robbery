@@ -1,7 +1,7 @@
 # Market-robbery
-Bu script FiveM içindir. Bu script bana ait değildir. Sadece scripti düzenledim
+This script is for FiveM. This script is not mine. I just edited the script
 
-## Üzerinde yaptıklarım
-Marketlerdeki NPC'leri soyuyorsunuz. Bazı buglarını düzelttim ve kordinatlar ayarlandı.
+## What i did on the script:
+You rob NPCs in the markets. I've fixed some bugs and the coordinates have been adjusted.
 
-[Discord](https://discord.gg/gFzqvDNKA8)
+[My Discord](https://discord.gg/gFzqvDNKA8)
